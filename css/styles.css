@@ -1,0 +1,19 @@
+.inventory-grid {
+  min-height: 100vh;
+}
+
+.single-product {
+  min-height: 100vh;
+}
+
+.add-product {
+  min-height: 100vh;
+}
+
+.edit-product {
+  min-height: 100vh;
+}
+
+.product-form {
+  max-width: 500px;
+}
